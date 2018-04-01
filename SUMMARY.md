@@ -7,4 +7,3 @@
   - [使用gitbook写书](gitbook/how-to-use-gitbook.md)
 * [Bash](bash/readme.md)
   - [设置bash自定义命令](bash/alias.md)
-

@@ -9,7 +9,3 @@
 - bash
 - gitbook
 
-
-
-
-
